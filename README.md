@@ -15,6 +15,10 @@ Please refer to the *README.md* for each component.
 
 * [Cheetah Loyalty Core]
 * [Cheetah Loyalty UI]
+* [Cheetah Loyalty Places]
+* [Cheetah Loyalty Challenges]
 
 [Cheetah Loyalty Core]: https://github.com/LoyalSphere/cheetah-loyalty-ios-sdk-releases/blob/master/CheetahLoyaltyCore/README.md
 [Cheetah Loyalty UI]: https://github.com/LoyalSphere/cheetah-loyalty-ios-sdk-releases/blob/master/CheetahLoyaltyUI/README.md
+[Cheetah Loyalty Places]: https://github.com/LoyalSphere/cheetah-loyalty-ios-sdk-releases/blob/master/CheetahLoyaltyPlaces/README.md
+[Cheetah Loyalty Challenges]: https://github.com/LoyalSphere/cheetah-loyalty-ios-sdk-releases/blob/master/CheetahLoyaltyChallenges/README.md
