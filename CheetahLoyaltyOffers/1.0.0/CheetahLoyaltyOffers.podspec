@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   spec.ios.deployment_target = "11.0"
   spec.swift_version = "5.1"
-  spec.source       = { :git => "git@github.com:LoyalSphere/cheetah-loyalty-ios-sdk-releases.git", :tag => "Offers-#{spec.version}" }
+  spec.source       = { :git => "https://github.com/LoyalSphere/cheetah-loyalty-ios-sdk-releases.git", :tag => "Offers-#{spec.version}" }
   spec.ios.vendored_frameworks = "CheetahLoyaltyOffers/CheetahLoyaltyOffers.xcframework"
   spec.framework = 'Foundation'
   spec.ios.framework = 'UIKit'
