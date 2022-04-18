@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CheetahDigitalNotifications"
-  spec.version      = "2.0.0"
+  spec.version      = "2.1.0"
   spec.summary      = "CheetahDigitalNotifications contains a collection of classes, methods, and protocols that encapsulates implementation of notification related features."
   spec.description  = <<-DESC
   CheetahDigitalNotifications contains a collection of classes, methods, and protocols that encapsulates implementation of notification related features for the Cheetah Digital Platform.
@@ -16,5 +16,5 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = "CheetahDigitalNotifications/CheetahDigitalNotifications.xcframework"
   spec.framework = 'Foundation'
   spec.ios.framework = 'UIKit'
-  spec.dependency "CheetahDigitalCore", "~> 2.1.0"
+  spec.dependency "CheetahDigitalCore", "~> 2.2.0"
 end
