@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "CheetahDigitalOloUI"
-  spec.version      = "1.3.1"
+  spec.version      = "2.0.0"
   spec.summary      = "CheetahDigitalOloUI contains collections of views and components that implements a complete Olo Ordering System"
   spec.description  = <<-DESC
   CheetahDigitalOloUI contains collections of views and components that implements a complete Olo Ordering System.
