@@ -16,6 +16,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = "CheetahDigitalOffers/CheetahDigitalOffers.xcframework"
   spec.framework = 'Foundation'
   spec.ios.framework = 'UIKit'
-  spec.dependency "CheetahDigitalUI", "~> 2.1.0"
+  spec.dependency "CheetahDigitalUI", "~> 2.1.1"
   spec.dependency "CheetahDigitalCore", "~> 2.2.0"
 end
